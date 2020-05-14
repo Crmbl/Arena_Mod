@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "pxp",
+    "ppp",
+    " s "
+  ],
+  "key":
+  {
+    "p":
+    {
+      "item": "minecraft:stone"
+    },
+    "x":
+    {
+      "item": "minecraft:melon_slice"
+    },
+    "s":
+    {
+      "tag": "minecraft:walls"
+    }
+  },
+  "result":
+  {
+    "item": "arena_mod:respawn_block",
+    "count": 3
+  }
+}

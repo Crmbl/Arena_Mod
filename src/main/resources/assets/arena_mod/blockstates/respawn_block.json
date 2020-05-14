@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": [
+      { "model": "arena_mod:block/respawn_block" }
+    ]
+  }
+}
